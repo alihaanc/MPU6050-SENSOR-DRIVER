@@ -23,12 +23,5 @@ example->Temperature temp
 	                          AFS_16G-> 16g Gravity)# MPU6050-SENSOR-DRIVER
 				  
 				  
-				  ![sss](https://user-images.githubusercontent.com/93796314/188215021-7f1fc7e3-6914-4f06-aebf-6c8233fae66d.png)
-                                 ![indir](https://user-images.githubusercontent.com/93796314/188215024-9e8397ca-488d-407c-9e58-baadee86fbab.png)
-
-		
-		  
-				  
-				  
 				  
 # MPU6050-SENSOR-DRIVER
