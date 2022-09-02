@@ -1,0 +1,6 @@
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:45:6:MPU6050_Init	40	static
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:102:6:MPU6050_Start	32	static
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:190:6:MPU6050_READ	32	static
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:203:6:Complementary_filter	24	static
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:235:6:Error_calc	16	static
+../Drivers/MPU6050_V2.1/MPU_V2.1.c:247:14:inital_roll_pitch	4	static
