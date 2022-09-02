@@ -38,7 +38,7 @@ MPU6050_V2/Drivers/MPU6050_V2
 ![gecisler](https://user-images.githubusercontent.com/93796314/188218734-66ac8579-5521-4127-b402-e8cb3d50ace6.jpg)
 
 # Resources
-Philp Salmony   -> https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd
+Philip Salmony   -> https://www.youtube.com/playlist?list=PLXSyc11qLa1ZCn0JCnaaXOWN6Z46rK9jd
 
 Coşkun Taşdemir -> https://www.youtube.com/watch?v=dDfwamkfz_c&t=885s
 
