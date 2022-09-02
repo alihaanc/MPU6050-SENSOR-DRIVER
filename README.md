@@ -21,3 +21,4 @@ example->Temperature temp
 	                          AFS_4G,-> 4g  Gravity
 	                          AFS_8G,-> 8g  Gravity
 	                          AFS_16G-> 16g Gravity)# MPU6050-SENSOR-DRIVER
+# MPU6050-SENSOR-DRIVER
