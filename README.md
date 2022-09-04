@@ -1,6 +1,6 @@
 # MPU6050-SENSOR-DRIVER
 PATH:                                          
-MPU6050_V2/Drivers/MPU6050_V2
+MPU6050_V2/Drivers/MPU6050_V2.1
 
  **Driver User Advice**
  - You should define "Accel_Gyro" sturct variable for MPU6050
