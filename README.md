@@ -50,4 +50,5 @@ Joop Brokking   ->  https://www.youtube.com/watch?v=j-kE0AMEWy4&t=117s
 			  
 				  
 # MPU6050-SENSOR-DRIVER
-
+Linkedin Account:
+https://www.linkedin.com/feed/update/urn:li:activity:6971895564720332800/
